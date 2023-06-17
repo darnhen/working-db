@@ -1,0 +1,15 @@
+title: Default File
+
+fields:
+  slidetitle:
+    type: text
+    label: Title
+  slidedate:
+    type: text
+    label: Date
+  slidematerial:
+    type: text
+    label: Material
+  alt:
+    type: text
+  

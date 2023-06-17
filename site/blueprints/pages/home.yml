@@ -1,0 +1,25 @@
+title: Home
+
+sections:
+  gallery:
+    type: files
+    sortable: true
+    max: 4
+    layout: cards
+    image:
+      ratio: 1/1
+      cover: true 
+  info:
+    type: fields
+    fields:
+      title:
+        type: text
+      info:    
+        type: textarea
+      pdfs:
+        type: files
+        label: PDFs
+      press:
+        type: list
+      news:
+        type: list

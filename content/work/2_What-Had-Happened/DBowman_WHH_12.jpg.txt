@@ -1,0 +1,21 @@
+Slidetitle: Untitled
+
+----
+
+Slidedate: 2019
+
+----
+
+Slidematerial: Digital Inkjet Print
+
+----
+
+Alt: 
+
+----
+
+Uuid: ec9uScSEroAW0XW1
+
+----
+
+Sort: 10

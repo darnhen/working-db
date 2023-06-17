@@ -1,0 +1,9 @@
+title: Work
+
+sections:
+  projects: 
+    type: pages
+    layout: cards
+    image: 
+      ratio: 1/1
+      cover: true

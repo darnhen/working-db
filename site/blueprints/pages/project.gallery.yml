@@ -1,0 +1,30 @@
+title: Gallery
+
+sections:
+  gallery:
+    type: files
+    sortable: true
+    layout: cards
+    image:
+      ratio: 1/1
+      cover: true
+  info:
+    type: fields
+    fields:
+      title:
+        type: text
+      client:
+        type: text
+      date: 
+        type: text
+      description:
+        type: textarea
+      attribution:
+        type: text
+      tags:
+        type: tags
+        layout: list
+        accept: options
+        options:
+          - Studio
+          - Commission

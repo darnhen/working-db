@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'CartaNueva';
+    src: url('/assets/CartaNueva-Small.woff');
+}
+
+a{
+    text-transform: uppercase;
+    transition: .25s all;
+    border-bottom: 2px solid;
+}
+
+a:hover{
+    color: #FEC9F2;
+}
+
+header a, .project a {
+    text-transform: initial;
+    border: none;
+}
+
+u {
+    text-decoration: none;
+    border-bottom: 2px dotted;
+    padding-bottom: 1px;
+}
+
+em, i {
+    font-style: italic;
+}
+
+strong, b{
+    font-weight: bold;
+
+}
+
+.metadata{
+    -webkit-text-stroke: 1px black;
+}
+
+article.project-desc > p{
+    line-height: 1.25rem;
+    margin-bottom: 15px;
+}
+
+.project-slides li img{
+    max-width: 100px;
+}
+
+
+@media (min-width: 1024px) {
+    .nav-title{
+    color: #9096CE;
+    -webkit-text-stroke: 1px black;
+    }
+}
+

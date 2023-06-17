@@ -1,0 +1,21 @@
+Slidetitle: Sap
+
+----
+
+Slidedate: 2019
+
+----
+
+Slidematerial: Digital Inkjet Print
+
+----
+
+Alt: 
+
+----
+
+Uuid: ZqrucYOeyOwrA5WQ
+
+----
+
+Sort: 9
